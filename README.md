@@ -49,7 +49,7 @@ In the context of a clickbait fake news detection system, the components (data i
 These components work together to create an end-to-end clickbait fake news detection system, starting from data ingestion and preprocessing, followed by machine learning-based prediction, feedback collection, and performance monitoring.
 
 ## Flowchart
-![Fake news detection system flowchart](https://imgur.com/a/BlfehBp)
+![Flowchart](https://imgur.com/a/BlfehBp)
 
 ## Demo
 
