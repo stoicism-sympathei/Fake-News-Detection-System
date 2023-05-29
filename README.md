@@ -45,10 +45,11 @@ In the context of a clickbait fake news detection system, the components (data i
 * The performance monitoring component tracks and analyzes the system's performance metrics.
 * It may involve calculating evaluation metrics such as accuracy, precision, recall, and F1score to assess the effectiveness of the clickbait detection system.
 * Performance monitoring helps identify areas for improvement and measure the system's overall performance.
+
 These components work together to create an end-to-end clickbait fake news detection system, starting from data ingestion and preprocessing, followed by machine learning-based prediction, feedback collection, and performance monitoring.
 
 ## Flowchart
-
+![Fake news detection system flowchart](https://imgur.com/a/BlfehBp)
 
 ## Demo
 
