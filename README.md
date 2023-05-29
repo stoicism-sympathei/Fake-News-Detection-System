@@ -21,7 +21,7 @@ information-driven society.
 
 
 In the context of a clickbait fake news detection system, the components (data ingestion, preprocessing, machine learning model, prediction, feedback mechanism, and performance monitoring) can be described as follows:
- **1. Data Ingestion**
+ ## 1. Data Ingestion
 * This component is responsible for accepting clickbait articles as input.
 * It could involve mechanisms to fetch articles from various sources such as websites, RSS feeds, or databases.
 * The data ingestion module collects the necessary information from the articles for further processing.
