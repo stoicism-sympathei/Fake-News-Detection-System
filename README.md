@@ -51,8 +51,12 @@ These components work together to create an end-to-end clickbait fake news detec
 ## Flowchart
 
 <p align="center">
-<img src="Flochart.png" width="859\" height="1005\"/>
+<img src="Flochart.png" width="600\"/>
 <p/>
 ## Demo
+
+<p align="center">
+<img src="Home page.png" width="600\"/>
+<p/>
 
 
