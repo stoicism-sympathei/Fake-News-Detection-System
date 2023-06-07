@@ -1,0 +1,141 @@
+/* Add global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+/* Header styles */
+header {
+    background-color: #f44336;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  #dynamic-heading {
+    font-size: 24px;
+    text-align: center;
+  }
+
+/* Hero section styles */
+.hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 50px;
+    text-align: center; /* Center align the text */
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .cta-container {
+    display: flex;
+    justify-content: center; /* Center align the button */
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f44336;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+/* Key features section styles */
+.features {
+  padding: 50px;
+}
+
+.features h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.features ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.features li {
+  margin-bottom: 10px;
+}
+
+.feature-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.feature-button:hover {
+  background-color: #45a049;
+}
+
+/* Example articles section styles */
+.examples {
+  background-color: #f5f5f5;
+  padding: 50px;
+}
+
+.examples h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.article {
+  /* Add styles for individual example articles */
+}
+
+/* Call-to-action section styles */
+.call-to-action {
+  background-color: #333;
+  color: #fff;
+  padding: 50px;
+  text-align: center;
+}
+
+.call-to-action h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.call-to-action p {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f44336;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+footer nav {
+  /* Add footer navigation styles */
+}
+
+footer p {
+  font-size: 14px;
+}

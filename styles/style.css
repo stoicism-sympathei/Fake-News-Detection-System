@@ -1,0 +1,427 @@
+/* General Styles */
+body {
+    font-family: Bell MT, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header h1 {
+    color: white;
+    font-size: 24px;
+    margin: 0;
+    padding: 20px;
+    transform: translateY(-20px);
+      
+  }
+  
+  header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-20px);
+  }
+  
+  header li {
+    margin: 0 10px;
+  }
+  
+  header a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border: 1px solid white;
+    border-radius: 5px;
+  }
+  
+  header a:hover {
+    background-color: white;
+    color: #333;
+  }
+  
+  /*header logo*/
+  
+
+/* Intro Section Styles */
+.cover-image {
+    
+}
+
+.project-name {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.project-name h1 {
+    font-size: 36px;
+    transform: translateY(-20px);
+}
+
+.project-name p {
+    font-size: 18px;
+}
+.nav {
+font-size: 28px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+transform: translateY(30px);
+}
+/* Features Section Styles */
+#features {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+.feature {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.feature img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.feature h3 {
+    font-size: 24px;
+}
+
+.feature p {
+    font-size: 16px;
+}
+
+/* Application Section Styles */
+#application {
+    text-align: center;
+    padding: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background-color: #555;
+}
+
+
+
+.cover-image {
+    background-image: url('../image/fake.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px; /* Adjust the height to your desired value */
+}  
+
+/*features secssion*/
+#features {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .feature {
+    text-align: center;
+    width: 300px;
+  }
+  
+  .feature img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .feature.feature9 {
+    transform: translateY(20px);
+  }
+  
+  .feature h2 {
+    margin-top: 10px;
+  }
+  
+  .feature p {
+    margin-top: 10px;
+  }
+  #features {
+    background-color: rgba(173, 216, 230, 0.7); /* Transparent light blue color */
+    padding: 50px;
+    color: white; /* Set the text color to white for better visibility */
+  }
+  
+/* sticky header  */
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* background-color: #f2f2f2; */
+    padding: 10px;
+    z-index: 100;
+  }
+ 
+  
+  main {
+    margin-top: 80px; /* Adjust this value to match the header height */
+    /* Rest of the styling for the main content */
+  }
+  /* body entact */
+  body {
+    background-image: url('../image/pirate.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+  }
+  /* About Section */
+
+.about {
+    background-color: hsla(0, 6%, 94%, 0.829);
+    padding: 40px;
+  }
+  
+  .about h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .about .team-members {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .about .team-members .member {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .about .team-members .member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .about .team-members .member h3 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .about .team-members .member .social-links {
+    margin-top: 10px;
+  }
+  
+  .about .team-members .member .social-links a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .about .team-members .member .social-links a:hover {
+    color: #666;
+  }
+  
+  .about .github-link {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .about .github-link a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .about .github-link a:hover {
+    background-color: #666;
+  }
+  
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+/*footer additional*/
+
+.footer-name {
+  font-family: Great Vibes;
+  font-size: 18px;
+  
+}
+
+
+/* video sction*/
+.video-section {
+    margin-top: 20px;
+  }
+  
+  .video-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-220px);
+    z-index: 1;
+    color: hwb(0 1% 93%);
+    font-size: 24px;
+    text-align: center;
+  }
+  .video-section video {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+  }
+
+  .video-section {
+    position: relative;
+}
+
+
+.video-section video {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.video-section {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  
+  /*social medai hover */
+  .social-media-links a {
+    
+    /* Adjust the icon size and spacing if needed */
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  .social-media-links a:nth-child(1):hover {
+    color: #0072b1; /* Set the color for Twitter icon on hover */
+  }
+  
+  .social-media-links a:nth-child(2):hover {
+    color: #171515; /* Set the color for LinkedIn icon on hover */
+  }
+  
+  
+  .social-media-links a:nth-child(3):hover {
+    color: #1DA1F2; /* Set the color for YouTube icon on hover */
+  }
+  
+  /*shortcut style*/
+  .three-dots-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    z-index: 9999;
+  }
+  
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #000;
+    margin-bottom: 5px;
+  }
+  
+  .dot:last-child {
+    margin-bottom: 0;
+  }
+/* stylish text*/
+.example {
+  position: relative;
+ 
+}
+
+.example h1 {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 3px solid #000;
+  animation: typing 3s steps(30);
+}
+
+@keyframes typing {
+  from {
+      width: 0;
+  }
+  to {
+      width: 100%;
+  }
+}
+
+.example h1::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 3px;
+  height: 100%;
+  background-color: #000;
+  animation: cursor 1s infinite;
+}
+
+@keyframes cursor {
+  from, to {
+      background-color: transparent;
+  }
+  50% {
+      background-color: #000;
+  }
+}
+
+
+
+
+
+
+
+
+  
