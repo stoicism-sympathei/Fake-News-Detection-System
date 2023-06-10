@@ -1,5 +1,10 @@
 # Fake News Detection System
 
+
+<a href="https://imgur.com/a/cOAAJMt">
+    <img src="https://imgur.com/a/cOAAJMt">
+</a>
+
 ## Let's enhance the digital literacy and critical thinking in today's information-driven society
 
 #### INTRODUCTION
