@@ -89,7 +89,11 @@ information-driven society.
 * You can repeat the process of `submitting articles`, `exploring features`, and `providing feedback` as needed. The application will provide a user-friendly interface and clear instructions to facilitate your interaction.
 
 ## Authors
-* Moges Amane - [Github](https://github.com/stoicism-sympathei) / [Email](https://mogesanonymous@gmail.com)
+- **Moges Amane**
+* [Github](https://github.com/stoicism-sympathei)
+* [Linkedin](https://www.linkedin.com/feed/)
+* [Email](https://mogesanonymous@gmail.com)
+   
 
 
 ## License
