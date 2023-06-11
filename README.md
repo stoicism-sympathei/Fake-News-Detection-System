@@ -20,7 +20,7 @@ information-driven society.
 
 - **Deployed site** <[deployed website](https://stoicism-sympathei.github.io/Fake-News-Detection-System/)>
 - **Blog article** <[blog post](https://medium.com/@mogesanonymous/fake-news-detection-system-79b858ec4f4e)> 
-## This project is on progress is not completed yet it just prototype :⚠:
+## ⚠ This project is on progress is not completed yet it just prototype 
 ## Table of Content
 * [Installation](#installation)
 * [Usage](#usage)
