@@ -27,8 +27,7 @@ information-driven society.
 
 
 
-<p align="center">
-<img src="https://imgur.com/03BRS1u/fake news detection system.png" width="600\"/>
-<p/>
+
+![home](https://imgur.com/03BRS1u.png)
 
 
