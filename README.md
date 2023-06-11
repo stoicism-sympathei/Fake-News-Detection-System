@@ -90,9 +90,9 @@ information-driven society.
 
 ## Authors
  **Moges Amane**
-* :GitHub:[Github](https://github.com/stoicism-sympathei)
-* :linkedin:[Linkedin](https://www.linkedin.com/feed/)
-* 📧:[Email](https://mogesanonymous@gmail.com)
+* [Github](https://github.com/stoicism-sympathei)
+* linkedin[Linkedin](https://www.linkedin.com/feed/)
+* 📧[Email](https://mogesanonymous@gmail.com)
    
 
 
