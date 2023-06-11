@@ -2,6 +2,8 @@
 
 <p align ="center">![home](https://imgur.com/03BRS1u.png)
   </p>
+  
+  ## Flowchart
 ![flow](https://imgur.com/LRHNR1g.png)
 
 
@@ -23,7 +25,7 @@ information-driven society.
 * Overall, the Clickbait Fake News Detection System is a valuable tool that empowers users to navigate the online news landscape with confidence and trust in the authenticity of the information they consume.
 
 
-## Flowchart
+
 
 
 
