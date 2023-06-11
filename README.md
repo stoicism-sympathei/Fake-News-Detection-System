@@ -1,7 +1,8 @@
 # Fake News Detection System
 
+<p align ="center">![home](https://imgur.com/03BRS1u.png)
+  </p>
 
-![home](https://imgur.com/a/cOAAJMt.png)
 
 ## Let's enhance the digital literacy and critical thinking in today's information-driven society
 
@@ -28,6 +29,6 @@ information-driven society.
 
 
 
-![home](https://imgur.com/03BRS1u.png)
+
 
 
