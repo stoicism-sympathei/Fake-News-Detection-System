@@ -2,6 +2,7 @@
 
 <p align ="center">![home](https://imgur.com/03BRS1u.png)
   </p>
+![flow](https://imgur.com/LRHNR1g.png)
 
 
 ## Let's enhance the digital literacy and critical thinking in today's information-driven society
@@ -24,7 +25,6 @@ information-driven society.
 
 ## Flowchart
 
-![flow](https://imgur.com/LRHNR1g.png)
 
 
 
