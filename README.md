@@ -1,5 +1,5 @@
 ## Fake News Detection System
-<p align ="center">![home](https://imgur.com/03BRS1u.png)
+<p align ="center"> ![home](https://imgur.com/03BRS1u.png)
   </p>
   
   ## Flowchart
