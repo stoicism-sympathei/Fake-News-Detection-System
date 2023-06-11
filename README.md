@@ -20,7 +20,7 @@ information-driven society.
 
 * Overall, the Clickbait Fake News Detection System is a valuable tool that empowers users to navigate the online news landscape with confidence and trust in the authenticity of the information they consume.
 
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/cOAAJMt"  ><a href="//imgur.com/a/cOAAJMt">fake news detection system</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Flowchart
 
