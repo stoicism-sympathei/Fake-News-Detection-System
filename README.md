@@ -38,7 +38,7 @@ information-driven society.
 *	install a database management system `MySQL` on your server.
 *	Configure Django's database settings in the `settings.py` file of your project to connect to the database.
 -	**Clone the Project**
-*	Use a version control system (e.g., Git) to clone the Clickbait Fake News Detection System project repository to your server.
+*	Use a version control system (e.g., Git) `git clone "git@github.com:stoicism-sympathei/Fake-News-Detection-System.git"`.
 -	**Install Project Dependencies**
 *	Backend: Navigate to the project directory and run `pip3 install -r requirements.txt` to install the required Python libraries and dependencies listed in the requirements.txt file.
 *	Frontend: Navigate to the frontend directory within the project and run npm install to install the necessary frontend dependencies.
@@ -89,7 +89,7 @@ information-driven society.
 * You can repeat the process of `submitting articles`, `exploring features`, and `providing feedback` as needed. The application will provide a user-friendly interface and clear instructions to facilitate your interaction.
 
 ## Authors
-* Moges Amane - [Github](https://github.com/stoicism-sympathei) / [Email](mogesanonymous@gmail.com)
+* Moges Amane - [Github](https://github.com/stoicism-sympathei) / [Email](https://mogesanonymous@gmail.com)
 
 
 ## License
